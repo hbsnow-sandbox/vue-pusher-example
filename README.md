@@ -1,29 +1,3 @@
 # vue-pusher-example
 
-## Project setup
-```
-yarn install
-```
-
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
-
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Run your unit tests
-```
-yarn test:unit
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+[フロントエンドマスターへの道 その2 Vue.jsとPusherでチャットアプリ](https://qiita.com/hbsnow/items/9ac7f57d031b5ee5a1d9)
